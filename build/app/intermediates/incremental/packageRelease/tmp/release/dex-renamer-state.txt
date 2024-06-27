@@ -1,0 +1,4 @@
+#Thu Jun 27 16:36:30 PKT 2024
+base.0=/Users/apple/repos/TRAVEL_EASE_App/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

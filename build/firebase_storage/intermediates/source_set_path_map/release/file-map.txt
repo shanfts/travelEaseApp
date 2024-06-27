@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.storage.firebase_storage-core-1.6.0-0 /Users/apple/.gradle/caches/transforms-3/284a410c767ad6c7a2b0ffc8d8d85981/transformed/core-1.6.0/res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-window-java-1.0.0-beta04-1 /Users/apple/.gradle/caches/transforms-3/2a215381204751055df81b6269e717b7/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-annotation-experimental-1.1.0-2 /Users/apple/.gradle/caches/transforms-3/3d2f03fc996c2e0aa3dee5cfa3002cd1/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-play-services-base-18.1.0-3 /Users/apple/.gradle/caches/transforms-3/8317b5a063fd122ff8d590a6efaa0a4b/transformed/jetified-play-services-base-18.1.0/res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-play-services-basement-18.3.0-4 /Users/apple/.gradle/caches/transforms-3/a43f60338762a20514d953a92576aa3e/transformed/jetified-play-services-basement-18.3.0/res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-firebase-common-20.4.2-5 /Users/apple/.gradle/caches/transforms-3/d41f5bd9a4f5c5b3a5d100f419f94e6e/transformed/jetified-firebase-common-20.4.2/res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-window-1.0.0-beta04-6 /Users/apple/.gradle/caches/transforms-3/f302e75fb7efd781bcf1a29281c188da/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.firebase.storage.firebase_storage-main-7 /Users/apple/.pub-cache/hosted/pub.dev/firebase_storage-11.7.0/android/src/main/res
+io.flutter.plugins.firebase.storage.firebase_storage-release-8 /Users/apple/.pub-cache/hosted/pub.dev/firebase_storage-11.7.0/android/src/release/res
+io.flutter.plugins.firebase.storage.firebase_storage-packaged_res-9 /Users/apple/repos/TRAVEL_EASE_App/build/firebase_core/intermediates/packaged_res/release
+io.flutter.plugins.firebase.storage.firebase_storage-pngs-10 /Users/apple/repos/TRAVEL_EASE_App/build/firebase_storage/generated/res/pngs/release
+io.flutter.plugins.firebase.storage.firebase_storage-resValues-11 /Users/apple/repos/TRAVEL_EASE_App/build/firebase_storage/generated/res/resValues/release
+io.flutter.plugins.firebase.storage.firebase_storage-rs-12 /Users/apple/repos/TRAVEL_EASE_App/build/firebase_storage/generated/res/rs/release
+io.flutter.plugins.firebase.storage.firebase_storage-mergeReleaseResources-13 /Users/apple/repos/TRAVEL_EASE_App/build/firebase_storage/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.firebase.storage.firebase_storage-mergeReleaseResources-14 /Users/apple/repos/TRAVEL_EASE_App/build/firebase_storage/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.firebase.storage.firebase_storage-merged_res-15 /Users/apple/repos/TRAVEL_EASE_App/build/firebase_storage/intermediates/merged_res/release
